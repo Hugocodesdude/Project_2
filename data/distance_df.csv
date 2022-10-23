@@ -1,29 +1,29 @@
-Countries to sort,Distance from Ukraine in km,Mileage
-Distance from Austria to Ukraine,"1,239",
-Distance from Belgium to Ukraine,"1,934","1,202"
-Distance from Bulgaria to Ukraine,,
-Distance from Cyprus to Ukraine,"1,485",
-Distance from Czech Republic to Ukraine,"1,151",
-Distance from Germany to Ukraine,"1,514",
-Distance from Denmark to Ukraine,"1,703","1,058"
-Distance from Estonia to Ukraine,"1,205",
-Distance from Spain to Ukraine,"2,880","1,790"
-Distance from Finland to Ukraine,"1,544",
-Distance from France to Ukraine,"2,183","1,356"
-Distance from Greece to Ukraine,"1,276",
-Distance from Croatia to Ukraine,"1,267",
-Distance from Hungary to Ukraine,,
-Distance from Ireland to Ukraine,"2,783","1,729"
-Distance from Italy to Ukraine,"1,623","1,008"
-Distance from Liechtenstein to Ukraine,"1,615","1,004"
-Distance from Lithuania to Ukraine,,
-Distance from Latvia to Ukraine,"1,043",
-Distance from Malta to Ukraine,"1,949","1,211"
-Distance from Netherlands to Ukraine,"1,875","1,165"
-Distance from Poland to Ukraine,,
-Distance from Portugal to Ukraine,"3,270","2,032"
-Distance from Romania to Ukraine,,
-Distance from Sweden to Ukraine,"1,533",
-Distance from Slovenia to Ukraine,"1,243",
-Distance from Slovakia to Ukraine,,
-Distance from Ukraine to Luxembourg,"1,821","1,132"
+Countries,Distance from Ukraine in km
+Austria,"1,239"
+Belgium,"1,934"
+Bulgaria,767
+Cyprus,"1,485"
+Czechia,"1,151"
+Germany,"1,514"
+Denmark,"1,703"
+Estonia,"1,205"
+Spain,"2,880"
+Finland,"1,544"
+France,"2,183"
+Greece,"1,276"
+Croatia,"1,267"
+Hungary,881
+Ireland,"2,783"
+Italy,"1,623"
+Liechtenstein,"1,615"
+Lithuania,905
+Latvia,"1,043"
+Malta,"1,949"
+Netherlands,"1,875"
+Poland,941
+Portugal,"3,270"
+Romania,541
+Sweden,"1,533"
+Slovenia,"1,243"
+Slovakia,844
+Luxembourg,"1,821"
